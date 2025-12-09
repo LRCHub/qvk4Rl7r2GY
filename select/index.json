@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "百花繚乱",
+  "base_artist": "幾田りら",
+  "createdAt": "2025-12-09T07:50:55.852823Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "百花繚乱",
+      "artist": "春猿火",
+      "has_synced": true,
+      "path": "select/01_百花繚乱_春猿火.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "百花繚乱",
+      "artist": "GLAY",
+      "has_synced": true,
+      "path": "select/02_百花繚乱_GLAY.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "百花繚乱、紅月夜",
+      "artist": "紅月/蓮巳敬人(CV.梅原裕一郎)、鬼龍紅郎(CV.神尾晋一郎)、神崎颯馬(CV.神永圭佑)",
+      "has_synced": true,
+      "path": "select/03_百花繚乱、紅月夜_紅月_蓮巳敬人(CV.梅原裕一郎)、鬼龍紅郎(CV.神尾晋一郎)、神崎颯馬(CV.神永圭佑).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "百花繚乱",
+      "artist": "Lilas Ikuta",
+      "has_synced": true,
+      "path": "select/04_百花繚乱_Lilas_Ikuta.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "百花繚乱",
+      "artist": "Lilas",
+      "has_synced": true,
+      "path": "select/05_百花繚乱_Lilas.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "百花繚乱 (Paused)",
+      "artist": "Lilas",
+      "has_synced": true,
+      "path": "select/06_百花繚乱_(Paused)_Lilas.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "百花繚乱",
+      "artist": "Ikuta, Lilas",
+      "has_synced": true,
+      "path": "select/07_百花繚乱_Ikuta,_Lilas.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "百花繚乱",
+      "artist": "幾田りら",
+      "has_synced": true,
+      "path": "select/08_百花繚乱_幾田りら.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "百花繚乱、紅月夜 (2025 ver.)",
+      "artist": "紅月",
+      "has_synced": false,
+      "path": "select/09_百花繚乱、紅月夜_(2025_ver.)_紅月.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "百花繚乱",
+      "artist": "幾田りら",
+      "has_synced": false,
+      "path": "select/pl_01_百花繚乱_幾田りら.txt"
+    }
+  ]
+}
